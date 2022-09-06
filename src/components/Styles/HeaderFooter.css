@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(128, 128, 128, 0.493);
+}
+
+
+.links {
+    display: flex;
+    align-items: center;
+}
+
+.links a {
+    margin: 10px;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+footer {
+    background-color: gray;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
